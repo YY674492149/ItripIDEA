@@ -1,0 +1,20 @@
+<html>
+<body>
+
+   <#list li as Animal>
+
+
+       <#if Animal.name=='小狗'>
+            名字:${Animal.name}
+            价格:${Animal.price}
+
+        <#else>
+            ${Animal.name}不是个狗
+       </#if>
+
+
+   </#list>
+
+
+</body>
+</html>

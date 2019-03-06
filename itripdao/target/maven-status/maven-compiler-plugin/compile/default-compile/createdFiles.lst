@@ -1,0 +1,8 @@
+cn\itrip\dao\itripHotel\ItripSearchPolicyHotelVO.class
+cn\itrip\dao\itripImage\ItripImageVO.class
+cn\itrip\dao\itripHotelRoom\ItripHotelRoomVO.class
+cn\itrip\dao\itripAreaDic\ItripAreaDicVO.class
+cn\itrip\dao\itripHotelFeature\ItripSearchDetailsHotelVO.class
+cn\itrip\dao\itripHotel\UserIt.class
+cn\itrip\dao\itripHotel\ItripSearchFacilitiesHotelVO.class
+cn\itrip\dao\itripLabelDic\ItripLabelDicVO.class
